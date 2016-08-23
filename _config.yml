@@ -10,10 +10,10 @@ encoding: UTF-8
 name: Project Encyclopedia Article
 
 # Short bio or description (displayed in the header)
-description: 
+description: "by: Oscar and Brian
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
