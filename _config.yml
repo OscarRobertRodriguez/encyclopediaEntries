@@ -1,6 +1,7 @@
 
 timezone: TIMEZONE
 future: true
+encoding: UTF-8
 #
 # This file contains configuration flags to customize your site
 #
