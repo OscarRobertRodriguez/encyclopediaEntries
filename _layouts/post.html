@@ -15,7 +15,9 @@ layout: default
  </span> {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-
+<a href="www.github.com/{{site.data.authors.[page.author_github].github}}">
+  <i class="ico-github"></i>
+</a>
 
   {% include disqus.html %}
 </article>
