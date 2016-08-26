@@ -48,13 +48,13 @@ author_github: brian
 ---
  </pre>
  
- * You can also embed codepens as they will work on the jekyll site. Don't focus to much who the post looks in plain markdown as 
+ * You can also embed codepens as they will work on the jekyll site. Don't focus too much on how the post looks in plain markdown as 
  Jekyll will make it look better. 
  
  **Useful tools** :
  
- [prose.io](http://prose.io) : Useful for editing your git repositories in mark down and for jekyl just go to `_post` click
-  add file and it will come formated with date just include name.
+ [prose.io](http://prose.io) : Useful for editing your git repositories in mark down and for jekyll just go to `_post` dir click
+  add file and it will come formatted with date just include name.
   
  [gh-page link generator](http://drastudio.github.io/url-generator/)  : Useful for getting the right link for your gh-page to work.
  
