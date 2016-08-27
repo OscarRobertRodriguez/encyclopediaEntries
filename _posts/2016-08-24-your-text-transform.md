@@ -39,6 +39,13 @@ As you can see in the code above, even though the paragraph has capital letters 
 	
 <p data-height="157" data-theme-id="dark" data-slug-hash="grNLEO" data-default-tab="css,result" data-user="nopity" data-embed-version="2" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/nopity/pen/grNLEO/">text-transform: capitalize</a> by oscar (<a href="http://codepen.io/nopity">@nopity</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+
+## Browser Compatibility 
+
+Supported in Google Chrome 1.0/up , Explorer 4.0/up,  Firefox 1.0 and up, Safari 1.0/up , and Opera 7.0/up.  
+
+
 ## Special Notes
 
 The capital value behaves in a certain way when it comes to the text its trying to change.

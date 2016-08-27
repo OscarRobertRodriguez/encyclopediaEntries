@@ -72,6 +72,10 @@ Now this one is a bit tricky but what we're doing is using concat twice. We conc
 <p data-height="233" data-theme-id="dark" data-slug-hash="dXBazZ" data-default-tab="js,result" data-user="nopity" data-embed-version="2" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/nopity/pen/dXBazZ/">concat once then twice</a> by oscar (<a href="http://codepen.io/nopity">@nopity</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
    
+## Browser Compatibility 
+
+Supported in Google Chrome 1.0/up , 5.5/up Explorer, 1.0/up Firefox, Safari , and Opera.   
+   
 
 ## Special Notes
 
