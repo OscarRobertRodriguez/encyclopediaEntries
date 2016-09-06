@@ -17,8 +17,8 @@ I will also put a live link to the whole website.
  * [Array.prototype.concat()](https://oscarrobertrodriguez.github.io/encyclopediaEntries/array-prototype-concat/)
 
 ## Brian's Articles
- * coming soon
- * coming soon
+ * [The HTML Directory Element or `<dir>` Element](https://oscarrobertrodriguez.github.io/encyclopediaEntries/dir/) 
+ * [The CSS `display` Property](https://oscarrobertrodriguez.github.io/encyclopediaEntries/display/) 
  * coming soon
  
  
