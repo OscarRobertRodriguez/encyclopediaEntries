@@ -19,7 +19,7 @@ I will also put a live link to the whole website.
 ## Brian's Articles
  * [The HTML Directory Element or `<dir>` Element](https://oscarrobertrodriguez.github.io/encyclopediaEntries/dir/) 
  * [The CSS `display` Property](https://oscarrobertrodriguez.github.io/encyclopediaEntries/display/) 
- * coming soon
+ * [The String.prototype.concat() Function](https://oscarrobertrodriguez.github.io/encyclopediaEntries/string.prototype.concat()/) 
  
  
  
