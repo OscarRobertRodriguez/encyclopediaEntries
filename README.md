@@ -4,7 +4,7 @@ We used the jekyll now repo to create a site that host our articles. If you woul
 in plain markdown they are located in the `_post` directory. 
 
 The live links will be provided below to each of our articles on our jekyll blog. Each article has the author name and the date it was
-created. I know this wasn't necessary but we went this way and learn something cool in the process.
+created. I know this wasn't necessary but we went this way and learned something cool in the process.
 
 I will also put a live link to the whole website. 
 
